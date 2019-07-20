@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="Msg2">This is my second text view..</string>
+    <string name="Msg1">Sample string by typing and runtime</string>
+    <string name="Msg3">Ravihari Jayasekara..</string>
+
+</resources>
+
